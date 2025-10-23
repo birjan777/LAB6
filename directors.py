@@ -54,7 +54,7 @@ else:
 #4 Write a Python program to count the number of lines in a text file.
 
 import os
-file=r'c:/Users/user/Desktop/PP2/lab6/directors.py/task3.py'
+file=r'c:/Users/khalenovbirzhan/Desktop/LAB6/directors.py/task3.py'
 count=0
 with open(file, 'r') as file:
     for line in file:
